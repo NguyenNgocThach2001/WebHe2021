@@ -1,0 +1,28 @@
+{
+  "name": "webhe2001",
+  "version": "1.0.0",
+  "description": "hoc he",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspectss index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenNgocThach2001/WebHe2021.git"
+  },
+  "keywords": [
+    "hoc",
+    "he"
+  ],
+  "author": "Meow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenNgocThach2001/WebHe2021/issues"
+  },
+  "homepage": "https://github.com/NguyenNgocThach2001/WebHe2021#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
